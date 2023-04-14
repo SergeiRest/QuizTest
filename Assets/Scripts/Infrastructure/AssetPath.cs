@@ -5,4 +5,5 @@ using UnityEngine;
 public static class AssetPath
 {
     public static string Questions() => "Questions/QuestionsSO";
+    public static string Settings() => "SettingsSO";
 }
